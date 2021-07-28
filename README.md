@@ -1,6 +1,5 @@
 # ITP-DIARY-MANAGEMENT
 This is one of the best c programming projects. Personal Dairy management is a console-based application which is designed without using graphics.
-This is one of the best c programming projects. Personal Dairy management is a console-based application which is designed without using graphics.
 
 As the name suggests the Personal Dairy Management System is used to store the personal data of an individual person. We can store data like person name, mobile number, address, date of birth, living place, etc.
 
